@@ -1,0 +1,12 @@
+A = (.5, .4)
+
+X_pixel= (x-X_min)/(Xmax-Xmin) * Window Width
+= 0.5-(-1)/1-(-1) *500
+= 1.5/2 *500
+= 375
+y pixel= (y-y_min)/(ymax-ymin) * Window height
+= .04-(-1)/1-(-1) * 500
+= 1.4/2 *500
+= 350
+
+A point pixel value = (375, 350)
